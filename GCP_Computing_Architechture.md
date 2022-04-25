@@ -8,6 +8,6 @@ Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) were introdu
 **Platform as a Service (PaaS)** : 
 
 
-**Software as a Service (SaaS)** : 
+**Software as a Service (SaaS)** : a
   
 
