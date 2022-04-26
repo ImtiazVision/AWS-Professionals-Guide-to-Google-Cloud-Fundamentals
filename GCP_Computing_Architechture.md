@@ -9,5 +9,12 @@ Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) were introdu
 
 
 **Software as a Service (SaaS)** : Google's major apps, such as Search, Gmail, Docs, and Drive, are Software as a Service applications in the sense that end users consume them directly through the internet.
+
+### Difference between Google Cloud and AWS 
+
+AWS has distinct regions and zones than Google Cloud.
+
+
+Google Cloud: Each area is made up of zones that are near to one another. Google provides multi-regional, global, and zonal services.
   
 
