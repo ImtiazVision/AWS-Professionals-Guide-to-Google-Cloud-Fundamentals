@@ -15,9 +15,7 @@ Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) were introdu
 Both Google and AWS employ regions to deliver Cloud services to clients. However, AWS has distinct regions and zones than Google Cloud.
 
 
-**Google Cloud**: Each area is made up of zones that are near to one another. Google provides multi-regional, global, and zonal services.
+**Google Cloud**: Each area is made up of zones that are near to one another. Google provides multi-regional, global, and zonal services. It also employs zones to offer data center services, with at least three zones in each area.
   
-**AWS** : One region is made up of multiple Availability Zones that are near to each other.
-
-Most services are regional or zonal in nature, but Cloudfront is worldwide.
+**AWS** : One region is made up of multiple Availability Zones that are near to each other. AWS provides high availability via the deployment of clusters and data centers known as availability zones. There will be at least two availability zones in each location. Most services are regional or zonal in nature, but Cloudfront is worldwide.
 
