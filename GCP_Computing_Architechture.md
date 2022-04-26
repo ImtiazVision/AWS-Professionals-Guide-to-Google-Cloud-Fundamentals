@@ -12,9 +12,12 @@ Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) were introdu
 
 ### Difference between Google Cloud and AWS 
 
-AWS has distinct regions and zones than Google Cloud.
+Both Google and AWS employ regions to deliver Cloud services to clients. However, AWS has distinct regions and zones than Google Cloud.
 
 
-Google Cloud: Each area is made up of zones that are near to one another. Google provides multi-regional, global, and zonal services.
+**Google Cloud**: Each area is made up of zones that are near to one another. Google provides multi-regional, global, and zonal services.
   
+**AWS** : One region is made up of multiple Availability Zones that are near to each other.
+
+Most services are regional or zonal in nature, but Cloudfront is worldwide.
 
