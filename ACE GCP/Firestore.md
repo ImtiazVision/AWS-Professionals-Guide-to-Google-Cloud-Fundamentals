@@ -6,3 +6,17 @@ Some NoSQL database examples are:
 
 - Key-value: uses Memory Store. Example, DynamoDB, Redis, Memcache
 - Document oriented: uses Firestore. Example, MongoDB.
+- Column-wide: uses Big table. Example, Cassandra. 
+
+**ACID** : 
+- Atomocity: only one execute.
+- Consistency 
+- Isolation 
+- Durability
+
+
+**BASE**: 
+- Basically
+- Available
+- Soft State
+- Eventual Consistency
