@@ -9,3 +9,4 @@ Some Cloud SQL services are :
 - Scaling
   - Up(machine capacity)
   - Out (Read replicas)
+Each region is divided into two zones, Zone A and Zone B, and communication is accomplished by synchronous replication.
