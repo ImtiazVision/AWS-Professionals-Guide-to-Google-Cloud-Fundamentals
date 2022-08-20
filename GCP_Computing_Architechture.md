@@ -10,7 +10,7 @@
 
 **Software as a Service (SaaS)** : Google's major apps, such as Search, Gmail, Docs, and Drive, are Software as a Service applications in the sense that end users consume them directly through the internet.
 
-### Difference between Google Cloud and AWS: 
+### Difference between Google Cloud and AWS : 
 
 Both Google and AWS employ regions to deliver Cloud services to clients. However, AWS has distinct regions and zones than Google Cloud.
 
