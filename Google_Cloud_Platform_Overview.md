@@ -1,4 +1,4 @@
-### Cloud Computing 
+### Cloud Computing :
 
 **Cloud Computing**: Cloud computing is a method of using IT that has these five equally significant characteristics: 
 
@@ -9,7 +9,7 @@
    - **Measured service** : We simply pay for what we use. Customers simply pay for what they use or reserve on the spot. They stop paying if they stop consuming resources.
 
 
-### Why choose Google Cloud 
+### Why choose Google Cloud :
 
 For our online, mobile, analytics, and back-end solutions, Google Cloud Platform provides compute, storage, big data, machine learning, and application services. It is global, cost-effective, open source-friendly, and security-focused. Developers may use Google Cloud Platform to design, test, and deploy apps on Google's highly secure, dependable, and scalable infrastructure.
 
